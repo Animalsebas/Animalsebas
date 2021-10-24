@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sebastián H. C.
 - 👀 I´m co-CEO of Baskerville Inc.
-- 🌱 I’m currently working on Python projects and Android Studio projects
+- 🌱 I’m currently working on Python, Android, Go projects
 - 💞️ I invite you to go and check my repos and check if you can help with something
 - 📫 Im on Instagram as @animalsebas, twitter as @animalsebas_sh and LinkedIn as "Sebastián Hernández"
 
